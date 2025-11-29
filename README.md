@@ -14,4 +14,9 @@
 
 <h2 align="center">⚙️ Como executar o site</h2>
 
-<p></p>
+<div align="center">
+1. Baixe ou clone o repositório para sua máquina<br>
+2. Abra a pasta do projeto no Visual Studio Code<br>
+3. Instale a extensão do Live Server<br>
+4. Abra o arquivo index.html e execute pelo Live Server<br>
+</div>
