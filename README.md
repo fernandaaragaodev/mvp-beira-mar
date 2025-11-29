@@ -11,3 +11,7 @@
 <p align="center">💻 HTML | CSS | JavaScript <br>
 
 ###
+
+<h2 align="center">⚙️ Como executar o site</h2>
+
+<p></p>
